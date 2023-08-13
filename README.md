@@ -1,4 +1,4 @@
-# Title: Written Analysis of the Election Audit
+# Written Analysis of the Election Audit
 
 ## Overview of Election Audit:
 
