@@ -1,15 +1,8 @@
-# Written Analysis of the Election Audit
+# Election analysis
 
-## Overview of Election Audit:
+A Python notebook explores election results by candidate and county using the included CSV data. The exercise illustrates data loading, aggregation, and reporting.
 
-The purpose of this election analysis audit is to provide an analysis of the recent congressional election. The analysis presents accurate and detailed insights into the election including the number of votes, breakdown of by county, the performance for each candidate, and the winning candidate.
+- [Analysis notebook](Pypoll_Challenge%20%281%29%20%282%29.ipynb)
+- [Input data](election_results.csv)
 
-## Election Audit Summary:
-
-The Python script developed for this election audit analyzes the election data. 
-
-It could also be useful with Local Elections by customizing the script to incorporate additional demographic data and precinct information. 
-
-The script can be extended for referendums and ballot measures. I could adjust the code to handle "yes" and "no" votes or multiple-choice options.
-
-This is a very useful tool for analyzing large amounts of data.
+This is a historical analysis exercise. The repository does not establish an independent audit of an official election or validate the source data.
